@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\semestr6\Si\csp\Csp\Csp\bin\Debug\Csp.exe.config
+C:\Users\User\Desktop\semestr6\Si\csp\Csp\Csp\bin\Debug\Csp.exe
+C:\Users\User\Desktop\semestr6\Si\csp\Csp\Csp\bin\Debug\Csp.pdb
+C:\Users\User\Desktop\semestr6\Si\csp\Csp\Csp\obj\Debug\Csp.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\semestr6\Si\csp\Csp\Csp\obj\Debug\Csp.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\semestr6\Si\csp\Csp\Csp\obj\Debug\Csp.exe
+C:\Users\User\Desktop\semestr6\Si\csp\Csp\Csp\obj\Debug\Csp.pdb
